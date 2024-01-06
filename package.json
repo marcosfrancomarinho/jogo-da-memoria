@@ -1,0 +1,19 @@
+{
+  "name": "jogo-da-memoria",
+  "version": "1.0.0",
+  "description": "jogo da memeoria feito com js html css com base no codigo do progamador br",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosfrancomarinho/jogo-da-memoria.git"
+  },
+  "author": "marcos marinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosfrancomarinho/jogo-da-memoria/issues"
+  },
+  "homepage": "https://github.com/marcosfrancomarinho/jogo-da-memoria#readme"
+}
