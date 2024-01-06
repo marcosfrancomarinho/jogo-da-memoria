@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body {
+    font-family: 'Righteous', sans-serif;
+}
+
+.card {
+    width: 150px;
+    height: 150px;
+}
+
+.card-back,
+.card-front {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(black, black, black, 0.45);
+}
+
+.card-front {
+    background-color: #101c2c;
+}
+
+.card-back {
+    color: #101c2c;
+    background-color: #05c3ff;
+    font-size: 30px;
+}
